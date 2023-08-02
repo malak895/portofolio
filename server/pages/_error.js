@@ -5,24 +5,6 @@ exports.id = 820;
 exports.ids = [820];
 exports.modules = {
 
-/***/ 648:
-/***/ ((__unused_webpack_module, exports) => {
-
-var __webpack_unused_export__;
-
-__webpack_unused_export__ = ({
-    value: true
-});
-exports.Z = _interopRequireDefault;
-function _interopRequireDefault(obj) {
-    return obj && obj.__esModule ? obj : {
-        default: obj
-    };
-}
-
-
-/***/ }),
-
 /***/ 185:
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -31,7 +13,7 @@ Object.defineProperty(exports, "__esModule", ({
     value: true
 }));
 exports["default"] = void 0;
-var _interop_require_default = (__webpack_require__(648)/* ["default"] */ .Z);
+var _interop_require_default = (__webpack_require__(845)/* ["default"] */ .Z);
 var _react = _interop_require_default(__webpack_require__(689));
 var _head = _interop_require_default(__webpack_require__(957));
 const statusCodes = {
@@ -117,6 +99,24 @@ Error.displayName = "ErrorPage";
 Error.getInitialProps = _getInitialProps;
 Error.origGetInitialProps = _getInitialProps;
 exports["default"] = Error; //# sourceMappingURL=_error.js.map
+
+
+/***/ }),
+
+/***/ 845:
+/***/ ((__unused_webpack_module, exports) => {
+
+var __webpack_unused_export__;
+
+__webpack_unused_export__ = ({
+    value: true
+});
+exports.Z = _interopRequireDefault;
+function _interopRequireDefault(obj) {
+    return obj && obj.__esModule ? obj : {
+        default: obj
+    };
+}
 
 
 /***/ }),
