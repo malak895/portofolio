@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "homepage": "https://malak895.github.io/portofolio/",
   "name": "rectify",
@@ -35,3 +36,6 @@
     "tailwindcss": "^3.3.3"
   }
 }
+=======
+{"type": "commonjs"}
+>>>>>>> 2b899d06c36c9b5e8403734a6ee07c766b9ea518
